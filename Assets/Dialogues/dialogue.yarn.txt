@@ -1,0 +1,25 @@
+title: Start
+tags:
+colorID: 1
+position: 43,363
+---
+Hello
+Testing
+Oof
+[[ ??? | AnotherNode ]]
+[[ Bruh | Bruh ]]
+===
+title: AnotherNode
+tags:
+colorID: 0
+position: 459,247
+---
+Did this work?
+===
+title: Bruh
+tags:
+colorID: 0
+position: 463,547
+---
+Bruh sound effect 2
+===
